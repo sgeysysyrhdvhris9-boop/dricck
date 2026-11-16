@@ -1,0 +1,80 @@
+[
+  {
+    "file": "原画/31_温柔挥手.png",
+    "size": [
+      1086,
+      1448
+    ],
+    "mode": "RGBA",
+    "alpha_range": [
+      0,
+      255
+    ],
+    "sha256": "e393aafe4020deb0e8c6a1648875c681d7ede1a3e6390708d350583b30a52de0"
+  },
+  {
+    "file": "原画/32_安静看书.png",
+    "size": [
+      1199,
+      1312
+    ],
+    "mode": "RGBA",
+    "alpha_range": [
+      0,
+      255
+    ],
+    "sha256": "80e0919051a130f61166c1a3a282871b2bb2b97688ab685a5a3f5af0403afe36"
+  },
+  {
+    "file": "原画/33_捧杯喝茶.png",
+    "size": [
+      1199,
+      1312
+    ],
+    "mode": "RGBA",
+    "alpha_range": [
+      0,
+      255
+    ],
+    "sha256": "a0c87ad8beebfcaa6ab20ba4204e44c6a81827c410f92591c48e7ffa8ac958af"
+  },
+  {
+    "file": "原画/34_伸懒腰_四关键帧.png",
+    "size": [
+      1199,
+      1312
+    ],
+    "mode": "RGBA",
+    "alpha_range": [
+      0,
+      255
+    ],
+    "sha256": "48e6d9da11f81acbe43e27a0fcd53f51fe52eeb56d7d1495a48079801bb56ff9"
+  },
+  {
+    "file": "原画/35_坐下起身_四关键帧.png",
+    "size": [
+      1199,
+      1312
+    ],
+    "mode": "RGBA",
+    "alpha_range": [
+      0,
+      255
+    ],
+    "sha256": "80ca17a653933020973be619cb996e5f5a9569b10f5e738f435c601572d899dd"
+  },
+  {
+    "file": "原画/36_睡觉醒来_四关键帧.png",
+    "size": [
+      1199,
+      1312
+    ],
+    "mode": "RGBA",
+    "alpha_range": [
+      0,
+      255
+    ],
+    "sha256": "2e555d7c2657cc3b01bee3898af17db89ec92d7c0648f60e2b60de339ced77df"
+  }
+]

@@ -1,0 +1,36 @@
+{
+  "common": "Use case: stylized-concept. Create high-quality ORIGINAL XiaoWu A-01 anime chibi key art using the provided reference as exact identity and style reference. Delicate painterly shading and fine clean lines, long dark chocolate wavy hair half tied with small black ribbon, warm brown eyes, cream ruffled blouse with dark heart pendant, charcoal wide trousers, black rounded shoes. Match same cute proportions and soft restrained colors. Transparent PNG, no background scenery, no ground shadow, no text, no watermark. Complete uncropped head, hair tips and feet; generous margins. ",
+  "jobs": [
+    {
+      "id": "31",
+      "name": "温柔挥手",
+      "spec": "One single full-body character, centered, standing calmly in front three-quarter view. Her right elbow is bent and right open palm raised beside her face ready for a gentle small wave, left hand resting by hip. Warm welcoming small smile. No book, no glasses, no props. Entire figure occupies about 80 percent of canvas height."
+    },
+    {
+      "id": "32",
+      "name": "安静看书",
+      "spec": "One single full-body character, centered, sitting comfortably cross-legged on the floor, holding an open dark notebook in both hands at chest level. Look down at pages with a peaceful small smile. No glasses. Feet clearly drawn and visible under folded trousers. No floor or cushion."
+    },
+    {
+      "id": "33",
+      "name": "捧杯喝茶",
+      "spec": "One single full-body character, centered, sitting with feet folded to the side, holding one small cream ceramic mug with a simple bunny pictogram in both hands at chest height. Look gently at viewer, relaxed small smile. No steam, no particles. Mug rim and both hands clearly visible."
+    },
+    {
+      "id": "34",
+      "name": "伸懒腰_四关键帧",
+      "spec": "Exactly four same-sized full-body character poses in a spacious 2x2 grid. Row-major sequence: 1 stand with relaxed arms down, sleepy eyes; 2 hands clasped near chest elbows bending; 3 both arms stretch above head eyes gently closed, feet flat; 4 arms lowered outward after stretch, soft smile. Consistent size, camera, head shape and baseline within each row. Clear transparent gutters."
+    },
+    {
+      "id": "35",
+      "name": "坐下起身_四关键帧",
+      "spec": "Exactly four full-body character poses in a spacious 2x2 grid, same head scale. Row-major sequence: 1 standing relaxed arms slightly forward; 2 knees bent half squat hands forward for balance; 3 seated cross-legged hands resting on knees; 4 rising from squat one foot planted hands balancing. Preserve anatomy and costume. Clear transparent gutters, no chair."
+    },
+    {
+      "id": "36",
+      "name": "睡觉醒来_四关键帧",
+      "spec": "Exactly four same-scale full-body character poses in a spacious 2x2 grid. Row-major sequence: 1 curled up asleep head resting on a small muted lavender pillow; 2 eyes just opening body still curled; 3 sitting up with one hand rubbing eye, pillow beside hip; 4 sitting alert with a soft warm smile and both hands in lap, pillow beside hip. Full hair and feet visible. No bed, blanket, text, scenery. Clear transparent gutters."
+    }
+  ],
+  "reference": "../01_通用抬手挥手_八关键姿态.png"
+}

@@ -1,0 +1,65 @@
+[
+  {
+    "id": "A",
+    "name": "温柔挥手",
+    "file": "A_温柔挥手_待审批.gif",
+    "source": "31_温柔挥手.png",
+    "method": "单幅原画局部连续形变 + 微幅呼吸",
+    "approval": "rejected_needs_rework",
+    "size": [
+      512,
+      512
+    ],
+    "duration_ms": 5000,
+    "encoded_frames": 125,
+    "timing_fps": 25,
+    "loop_mean_difference": 0,
+    "transparent": false,
+    "background": "#f5f2ee",
+    "sha256": "9fd48bd54fc9f856cc2a2f0af83813fbf27e1783a86f08835722c57a91002ca9",
+    "review_date": "2026-11-16",
+    "review_note": "用户指出形变影响背景，未形成完整动作"
+  },
+  {
+    "id": "B",
+    "name": "看书眨眼",
+    "file": "B_看书眨眼_待审批.gif",
+    "source": "32_安静看书.png",
+    "method": "AI闭眼关键帧 + 局部双向光流插值 + 微幅呼吸",
+    "approval": "approved",
+    "size": [
+      512,
+      512
+    ],
+    "duration_ms": 5000,
+    "encoded_frames": 125,
+    "timing_fps": 25,
+    "loop_mean_difference": 0,
+    "transparent": false,
+    "background": "#f5f2ee",
+    "sha256": "da24d7d1dc6c12fe3a3f4533ac2e6bb4c6d461d8ea40791a21ffbdc071e9cd96",
+    "review_date": "2026-11-16",
+    "review_note": "用户明确通过 B"
+  },
+  {
+    "id": "C",
+    "name": "捧杯轻抬",
+    "file": "C_捧杯轻抬_待审批.gif",
+    "source": "33_捧杯喝茶.png",
+    "method": "单幅原画局部连续形变 + 微幅呼吸",
+    "approval": "rejected_needs_rework",
+    "size": [
+      512,
+      512
+    ],
+    "duration_ms": 5000,
+    "encoded_frames": 125,
+    "timing_fps": 25,
+    "loop_mean_difference": 0,
+    "transparent": false,
+    "background": "#f5f2ee",
+    "sha256": "379df2e8a1e360cde81c56bbca28946b42c8e2b64c4b5fb97d5389a67dab2747",
+    "review_date": "2026-11-16",
+    "review_note": "用户指出形变影响背景，未形成完整动作"
+  }
+]
